@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to practice all of the HTML skills I have learned from the Odin Project. This is the first basic website I will be making! The website I will be making is related to recipe making. I will also be practicing git commits for the first time and getting comfortable with commiting my code. 
